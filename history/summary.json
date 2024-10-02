@@ -22,17 +22,19 @@
     "url": "https://demo.opendatacapture.org/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 338,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 313,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   }
 ]
