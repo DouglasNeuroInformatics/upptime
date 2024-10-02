@@ -4,7 +4,7 @@ repo: upptime
 sites:
   - name: DNP remote accesss gateway
     check: "tcp"
-    url: gateway.douglasneuroinformatics.ca
+    url: $gateway.douglasneuroinformatics.ca
     port: 46572
   - name: Open Data Capture
     url: https://demo.opendatacapture.org/auth/login
@@ -13,7 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://status.douglasneuroinformatics.ca/
+  cname: status.douglasneuroinformatics.ca/
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/84101648?s=48&v=4
   name: Douglas Neuroinformatics Platform's Status Page
