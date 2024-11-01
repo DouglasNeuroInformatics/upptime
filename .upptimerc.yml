@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: DNP Remote Access Gateway
-    check: "tcp"
+    check: "tcp-ping"
     url: $GATEWAY
     port: $GATEWAY_PORT
   - name: Open Data Capture
