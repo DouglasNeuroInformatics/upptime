@@ -2,18 +2,24 @@ owner: DouglasNeuroInformatics
 repo: upptime
 
 sites:
-  - name: DNP remote accesss gateway
+  - name: DNP Remote Access Gateway
     check: "tcp"
-    url: $***REMOVED***
-    port: ***REMOVED***
+    url: $GATEWAY
+    port: $GATEWAY_PORT
   - name: Open Data Capture
     url: https://demo.opendatacapture.org/auth/login
+  - name: Data Bank
+    url: https://databank.douglasneuroinformatics.ca/auth/login
+  - name: Mattermost
+    url: https://chat.douglasneuroinformatics.ca
+  - name: Tickets
+    url: https://support@douglasneuroinformatics.ca
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.douglasneuroinformatics.ca/
+  cname: status.douglasneuroinformatics.ca
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/84101648?s=48&v=4
   name: Douglas Neuroinformatics Platform's Status Page
