@@ -6,14 +6,20 @@ sites:
     check: "tcp-ping"
     url: $GATEWAY
     port: $GATEWAY_PORT
-  - name: Open Data Capture
+  - name: Open Data Capture (front-end)
     url: https://demo.opendatacapture.org/auth/login
-  - name: Data Bank
+  - name: Open Data Capture (back-end)
+    url: https://demo.opendatacapture.org/api
+  - name: Data Bank (front-end)
     url: https://databank.douglasneuroinformatics.ca/auth/login
+  - name: Data Bank (back-end)
+    url: https://databank.douglasneuroinformatics.ca/api
   - name: Mattermost
     url: https://chat.douglasneuroinformatics.ca
   - name: Tickets
-    url: https://support@douglasneuroinformatics.ca
+    url: https://support.douglasneuroinformatics.ca
+  - name: Neurobagel (Alliance FRQS)
+    url: https://neurobagel-alliancefrqs.douglasneuroinformatics.ca
 
 
 status-website:
