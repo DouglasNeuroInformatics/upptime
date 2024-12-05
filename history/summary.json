@@ -24,36 +24,40 @@
     "url": "https://demo.opendatacapture.org/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 388,
-    "timeWeek": 404,
+    "time": 396,
+    "timeDay": 389,
+    "timeWeek": 402,
     "timeMonth": 395,
-    "timeYear": 397,
-    "dailyMinutesDown": {}
+    "timeYear": 396,
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "Open Data Capture (back-end)",
     "url": "https://demo.opendatacapture.org/api",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 90,
-    "timeWeek": 117,
-    "timeMonth": 128,
-    "timeYear": 127,
-    "dailyMinutesDown": {}
+    "time": 126,
+    "timeDay": 80,
+    "timeWeek": 111,
+    "timeMonth": 126,
+    "timeYear": 126,
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "Data Bank (front-end)",
