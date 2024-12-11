@@ -1,7 +1,7 @@
 url: https://databank.douglasneuroinformatics.ca/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-11T07:06:25.467Z
+status: up
+code: 200
+responseTime: 132
+lastUpdated: 2024-12-11T07:28:24.517Z
 startTime: 2024-11-01T15:59:05.099Z
 generator: Upptime <https://github.com/upptime/upptime>
