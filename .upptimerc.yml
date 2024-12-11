@@ -20,7 +20,8 @@ sites:
     url: https://support.douglasneuroinformatics.ca
   - name: Neurobagel (Alliance FRQS)
     url: https://neurobagel-alliancefrqs.douglasneuroinformatics.ca
-
+  - name: DNP's LimeSurvey
+    url: https://survey.douglasneuroinformatics.ca/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
