@@ -24,19 +24,19 @@
     "url": "https://demo.opendatacapture.org/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-front-end",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.89%",
     "time": 393,
     "timeDay": 396,
     "timeWeek": 381,
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-12-11": 46,
+      "2024-12-11": 49,
       "2024-12-05": 12
     }
   },
@@ -45,10 +45,10 @@
     "url": "https://demo.opendatacapture.org/api",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
     "time": 122,
@@ -57,7 +57,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-12-11": 45,
+      "2024-12-11": 47,
       "2024-12-05": 12
     }
   },
@@ -66,10 +66,10 @@
     "url": "https://databank.douglasneuroinformatics.ca/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 261,
@@ -78,7 +78,7 @@
     "timeMonth": 253,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-12-11": 44
+      "2024-12-11": 46
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://databank.douglasneuroinformatics.ca/api",
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-back-end",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.58%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 124,
     "timeDay": 103,
     "timeWeek": 101,
     "timeMonth": 123,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-12-11": 42
+      "2024-12-11": 43
     }
   },
   {
@@ -106,10 +106,10 @@
     "url": "https://chat.douglasneuroinformatics.ca",
     "icon": "https://icons.duckduckgo.com/ip3/chat.douglasneuroinformatics.ca.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 248,
@@ -118,7 +118,7 @@
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-12-11": 41
+      "2024-12-11": 42
     }
   },
   {
@@ -126,7 +126,7 @@
     "url": "https://support.douglasneuroinformatics.ca",
     "icon": "https://icons.duckduckgo.com/ip3/support.douglasneuroinformatics.ca.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "96.52%",
     "uptimeWeek": "99.50%",
