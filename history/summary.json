@@ -126,19 +126,19 @@
     "url": "https://support.douglasneuroinformatics.ca",
     "icon": "https://icons.duckduckgo.com/ip3/support.douglasneuroinformatics.ca.ico",
     "slug": "tickets",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "93.74%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.84%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.81%",
     "time": 409,
-    "timeDay": 710,
-    "timeWeek": 523,
-    "timeMonth": 434,
+    "timeDay": 663,
+    "timeWeek": 512,
+    "timeMonth": 433,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-12-11": 90
+      "2024-12-11": 108
     }
   },
   {
