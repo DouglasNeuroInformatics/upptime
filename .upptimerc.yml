@@ -10,6 +10,8 @@ sites:
     url: https://demo.opendatacapture.org/auth/login
   - name: Open Data Capture (back-end)
     url: https://demo.opendatacapture.org/api
+  - name: Mouse Open Data Capture
+    url: https://mouseodc.douglasneuroinformatics.ca/auth/login
   - name: Data Bank (front-end)
     url: https://databank.douglasneuroinformatics.ca/auth/login
   - name: Data Bank (back-end)
