@@ -6,7 +6,7 @@
     "slug": "dnp-remote-access-gateway",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "19.75%",
     "uptimeWeek": "50.31%",
     "uptimeMonth": "88.57%",
     "uptimeYear": "98.36%",
@@ -71,6 +71,24 @@
       "2024-12-11": 245,
       "2024-12-05": 12
     }
+  },
+  {
+    "name": "Mouse Open Data Capture",
+    "url": "https://mouseodc.douglasneuroinformatics.ca/auth/login",
+    "icon": "https://icons.duckduckgo.com/ip3/mouseodc.douglasneuroinformatics.ca.ico",
+    "slug": "mouse-open-data-capture",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Data Bank (front-end)",
@@ -172,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.65%",
-    "time": 240,
+    "time": 239,
     "timeDay": 134,
     "timeWeek": 393,
     "timeMonth": 257,
-    "timeYear": 240,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-04-11": 27,
       "2025-03-11": 30,
@@ -200,9 +218,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 479,
-    "timeWeek": 340,
-    "timeMonth": 475,
+    "timeDay": 441,
+    "timeWeek": 348,
+    "timeMonth": 472,
     "timeYear": 429,
     "dailyMinutesDown": {}
   }
