@@ -24,6 +24,9 @@ sites:
     url: https://neurobagel-alliancefrqs.douglasneuroinformatics.ca
   - name: DNP's LimeSurvey
     url: https://survey.douglasneuroinformatics.ca/
+  - name: MCMP's Omero Server
+    url: https://omero.mcmpdouglas.ca/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,7 +36,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/84101648?s=48&v=4
   name: Douglas Neuroinformatics Platform's Status Page
   introTitle: "** DNP status ***"
-  introMessage: "Below is the status of the services we offer:"
+  introMessage: "Below is the status of the services we offer and monitor for other groups:"
   navbar:
     - title: Status
       href: /
