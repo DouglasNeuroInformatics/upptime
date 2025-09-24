@@ -131,11 +131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-back-end",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 117,
     "timeDay": 89,
     "timeWeek": 105,
@@ -205,11 +205,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/neurobagel-alliancefrqs.douglasneuroinformatics.ca.ico",
     "slug": "neurobagel-alliance-frqs",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 231,
     "timeDay": 302,
     "timeWeek": 223,
@@ -247,5 +247,23 @@
     "dailyMinutesDown": {
       "2025-06-30": 9
     }
+  },
+  {
+    "name": "MCMP's Omero Server",
+    "url": "https://omero.mcmpdouglas.ca/",
+    "icon": "https://icons.duckduckgo.com/ip3/omero.mcmpdouglas.ca.ico",
+    "slug": "mcmp-s-omero-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 806,
+    "timeDay": 806,
+    "timeWeek": 806,
+    "timeMonth": 806,
+    "timeYear": 806,
+    "dailyMinutesDown": {}
   }
 ]
