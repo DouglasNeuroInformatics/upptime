@@ -1,7 +1,7 @@
 url: https://omero.mcmpdouglas.ca/
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2025-09-24T23:06:33.445Z
+status: down
+code: 502
+responseTime: 142
+lastUpdated: 2025-09-25T04:02:12.715Z
 startTime: 2025-09-24T19:08:46.640Z
 generator: Upptime <https://github.com/upptime/upptime>
