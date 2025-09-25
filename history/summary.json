@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dnp-remote-access-gateway",
     "status": "up",
-    "uptime": "97.97%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.00%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 50,
     "timeDay": 35,
     "timeWeek": 49,
@@ -253,19 +253,19 @@
     "url": "https://omero.mcmpdouglas.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/omero.mcmpdouglas.ca.ico",
     "slug": "mcmp-s-omero-server",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "97.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
     "time": 434,
     "timeDay": 434,
     "timeWeek": 434,
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-09-25": 0
+      "2025-09-25": 12
     }
   }
 ]
