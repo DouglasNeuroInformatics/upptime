@@ -291,19 +291,19 @@
     "url": "$SMRC_REDCAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
-    "status": "up",
-    "uptime": "20.05%",
-    "uptimeDay": "20.05%",
-    "uptimeWeek": "20.05%",
-    "uptimeMonth": "20.05%",
-    "uptimeYear": "20.05%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "status": "down",
+    "uptime": "26.08%",
+    "uptimeDay": "26.08%",
+    "uptimeWeek": "26.08%",
+    "uptimeMonth": "26.08%",
+    "uptimeYear": "26.08%",
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-02-25": 323
+      "2026-02-25": 324
     }
   }
 ]
