@@ -50,7 +50,7 @@ jobs:
           TS="${{ steps.check.outputs.ts }}"
           CODE="${{ steps.check.outputs.code }}"
 
-          ssh -o StrictHostKeyChecking=accept-new cloud2.douglasneuroinformatics.ca \
+          ssh -o StrictHostKeyChecking=accept-new beatom@cloud2.douglasneuroinformatics.ca \
             "cat > /opt/internal_server_heartbeats/smrc-redcap.json" <<EOF
           {
             "service": "smrc-redcap",
@@ -67,7 +67,7 @@ jobs:
           set -euo pipefail
           TS="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 
-          ssh -o StrictHostKeyChecking=accept-new cloud2.douglasneuroinformatics.ca \
+          ssh -o StrictHostKeyChecking=accept-new beatom@cloud2.douglasneuroinformatics.ca \
             "cat > /opt/internal_server_heartbeats/smrc-redcap.json" <<EOF
           {
             "service": "smrc-redcap",
