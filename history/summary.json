@@ -141,7 +141,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-back-end",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -291,19 +291,19 @@
     "url": "$SMRC_REDCAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
-    "status": "down",
-    "uptime": "25.41%",
-    "uptimeDay": "25.41%",
-    "uptimeWeek": "25.41%",
-    "uptimeMonth": "25.41%",
-    "uptimeYear": "25.41%",
-    "time": 255,
-    "timeDay": 255,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "20.05%",
+    "uptimeDay": "20.05%",
+    "uptimeWeek": "20.05%",
+    "uptimeMonth": "20.05%",
+    "uptimeYear": "20.05%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-02-25": 237
+      "2026-02-25": 323
     }
   }
 ]
