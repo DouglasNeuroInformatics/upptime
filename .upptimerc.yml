@@ -26,7 +26,8 @@ sites:
     url: https://survey.douglasneuroinformatics.ca/
   - name: MCMP's Omero Server
     url: https://omero.mcmpdouglas.ca/
-
+  - name: SMRC's  REDCap
+    url: $SMRC_REDCAP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
