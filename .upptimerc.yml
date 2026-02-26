@@ -20,6 +20,8 @@ sites:
     url: https://chat.douglasneuroinformatics.ca
   - name: Tickets
     url: https://support.douglasneuroinformatics.ca
+  - name: ChatDNP (internal)
+    url: $CHATDNP
   - name: Neurobagel (Alliance FRQS)
     url: https://neurobagel-alliancefrqs.douglasneuroinformatics.ca
   - name: DNP's LimeSurvey
