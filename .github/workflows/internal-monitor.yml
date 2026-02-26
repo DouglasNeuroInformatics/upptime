@@ -1,0 +1,69 @@
+name: Internal Services Monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: internal-monitor
+  cancel-in-progress: true
+
+jobs:
+  monitor:
+    runs-on: [self-hosted, linux, internal]
+    strategy:
+      fail-fast: false  #ensures that if one site is down, the others are still checked
+      matrix:
+        service:
+          - name: "smrc-redcap"
+            url: "http://redcap-crsm.comtl.rtss.qc.ca/"
+            file: "smrc-redcap.json"
+          - name: "chatdnp"
+            url: "https://chatdnp.douglas.rtss.qc.ca"
+            file: "chatdnp.json"
+          - name: "odc"
+            url: "https://odc.douglas.rtss.qc.ca"
+            file: "odc.json"
+          - name: "clinicalodc"
+            url: "https://clinicalodc.douglas.rtss.qc.ca"
+            file: "clinicalodc.json"
+
+    steps:
+      - name: Check Service
+        id: check
+        shell: bash
+        run: |
+          set -euo pipefail
+          TS="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+
+          CODE="$(curl -s -k -L --max-time 15 -o /dev/null -w "%{http_code}" "${{ matrix.service.url }}" || echo 000)"
+
+          echo "ts=$TS" >> "$GITHUB_OUTPUT"
+          echo "code=$CODE" >> "$GITHUB_OUTPUT"
+
+          if [ "$CODE" -ge 200 ] && [ "$CODE" -lt 400 ]; then
+            echo "${{ matrix.service.name }} is UP ($CODE)"
+            exit 0
+          else
+            echo "${{ matrix.service.name }} is DOWN ($CODE)"
+            exit 1
+          fi
+
+      - name: Push Heartbeat to cloud2
+        if: always()  #updates cloud2 even when the check fails
+        shell: bash
+        run: |
+          set -euo pipefail
+          STATUS="down"
+          if [ "${{ steps.check.outcome }}" == "success" ]; then STATUS="up"; fi
+
+          ssh -o StrictHostKeyChecking=accept-new beatom@cloud2.douglasneuroinformatics.ca \
+            "cat > /opt/internal_server_heartbeats/${{ matrix.service.file }}" <<EOF
+          {
+            "service": "${{ matrix.service.name }}",
+            "status": "$STATUS",
+            "http_code": "${{ steps.check.outputs.code }}",
+            "last_check": "${{ steps.check.outputs.ts }}"
+          }
+          EOF
