@@ -1,7 +1,7 @@
 url: $CHATDNP
-status: up
-code: 200
-responseTime: 69
-lastUpdated: 2026-03-05T23:27:39.074Z
+status: down
+code: 503
+responseTime: 30
+lastUpdated: 2026-03-06T02:19:47.311Z
 startTime: 2026-02-26T05:47:29.590Z
 generator: Upptime <https://github.com/upptime/upptime>
