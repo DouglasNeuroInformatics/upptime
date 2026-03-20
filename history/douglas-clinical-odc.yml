@@ -1,7 +1,7 @@
 url: $DOUGLAS_CLINICAL_ODC
-status: down
-code: 503
-responseTime: 75
-lastUpdated: 2026-03-20T02:13:58.957Z
+status: up
+code: 200
+responseTime: 33
+lastUpdated: 2026-03-20T05:17:08.632Z
 startTime: 2026-02-26T06:14:00.281Z
 generator: Upptime <https://github.com/upptime/upptime>
