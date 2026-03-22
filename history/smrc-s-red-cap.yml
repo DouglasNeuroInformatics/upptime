@@ -1,7 +1,7 @@
 url: $SMRC_REDCAP
-status: down
-code: 503
-responseTime: 47
-lastUpdated: 2026-03-22T00:50:57.314Z
+status: up
+code: 200
+responseTime: 73
+lastUpdated: 2026-03-22T04:17:43.190Z
 startTime: 2026-02-25T06:06:37.441Z
 generator: Upptime <https://github.com/upptime/upptime>
