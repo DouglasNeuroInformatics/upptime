@@ -1,7 +1,7 @@
 url: $DOUGLAS_RESEARCH_ODC
-status: down
-code: 503
-responseTime: 213
-lastUpdated: 2026-03-22T05:00:18.739Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2026-03-22T05:32:39.247Z
 startTime: 2026-02-26T06:13:59.542Z
 generator: Upptime <https://github.com/upptime/upptime>
