@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-back-end",
     "status": "down",
-    "uptime": "95.77%",
-    "uptimeDay": "62.65%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "95.77%",
+    "uptime": "95.76%",
+    "uptimeDay": "61.25%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "95.76%",
     "time": 454,
     "timeDay": 4395,
     "timeWeek": 2238,
@@ -81,7 +81,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 465,
-      "2026-09-01": 538
+      "2026-09-01": 558
     }
   },
   {
@@ -141,10 +141,10 @@
     "slug": "data-bank-back-end",
     "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "59.25%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "57.85%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "99.71%",
     "time": 185,
     "timeDay": 228,
     "timeWeek": 301,
@@ -157,7 +157,7 @@
       "2026-01-17": 227,
       "2026-01-28": 56,
       "2026-05-01": 42,
-      "2026-09-01": 586
+      "2026-09-01": 607
     }
   },
   {
@@ -188,11 +188,11 @@
     "url": "https://support.douglasneuroinformatics.ca",
     "icon": "https://icons.duckduckgo.com/ip3/support.douglasneuroinformatics.ca.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "73.58%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "73.22%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.77%",
     "time": 429,
     "timeDay": 3495,
@@ -203,7 +203,7 @@
       "2026-01-18": 542,
       "2026-01-17": 226,
       "2026-01-28": 39,
-      "2026-09-01": 380
+      "2026-09-01": 385
     }
   },
   {
@@ -381,11 +381,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/omero.mcmpdouglas.ca.ico",
     "slug": "mcmp-s-omero-server",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "64.03%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.70%",
+    "uptimeDay": "62.63%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.70%",
     "time": 509,
     "timeDay": 567,
     "timeWeek": 600,
@@ -398,7 +398,7 @@
       "2026-01-19": 43,
       "2026-01-28": 38,
       "2026-08-30": 73,
-      "2026-09-01": 518
+      "2026-09-01": 538
     }
   },
   {
