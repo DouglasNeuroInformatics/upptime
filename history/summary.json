@@ -59,17 +59,17 @@
     "url": "https://demo.opendatacapture.org/api",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-back-end",
-    "status": "down",
+    "status": "up",
     "uptime": "95.89%",
-    "uptimeDay": "86.43%",
-    "uptimeWeek": "98.06%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "95.89%",
-    "time": 350,
-    "timeDay": 437,
-    "timeWeek": 439,
-    "timeMonth": 560,
-    "timeYear": 350,
+    "time": 454,
+    "timeDay": 10342,
+    "timeWeek": 2915,
+    "timeMonth": 1175,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2026-05-01": 43,
       "2026-06-26": 294,
@@ -81,7 +81,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 465,
-      "2026-09-01": 195
+      "2026-09-01": 198
     }
   },
   {
@@ -140,10 +140,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-back-end",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.57%",
+    "uptime": "98.81%",
+    "uptimeDay": "85.09%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.79%",
     "time": 184,
     "timeDay": 84,
@@ -157,7 +157,7 @@
       "2026-01-17": 227,
       "2026-01-28": 56,
       "2026-05-01": 42,
-      "2026-09-01": 187
+      "2026-09-01": 215
     }
   },
   {
@@ -381,11 +381,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/omero.mcmpdouglas.ca.ico",
     "slug": "mcmp-s-omero-server",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.78%",
+    "uptimeDay": "89.07%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.78%",
     "time": 508,
     "timeDay": 494,
     "timeWeek": 591,
@@ -398,7 +398,7 @@
       "2026-01-19": 43,
       "2026-01-28": 38,
       "2026-08-30": 73,
-      "2026-09-01": 130
+      "2026-09-01": 158
     }
   },
   {
