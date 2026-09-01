@@ -30,11 +30,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-front-end",
     "status": "down",
-    "uptime": "95.91%",
-    "uptimeDay": "87.65%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "95.91%",
+    "uptime": "95.90%",
+    "uptimeDay": "85.23%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "95.90%",
     "time": 383,
     "timeDay": 244,
     "timeWeek": 353,
@@ -51,7 +51,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 466,
-      "2026-09-01": 178
+      "2026-09-01": 213
     }
   },
   {
@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-back-end",
     "status": "down",
-    "uptime": "95.88%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "95.88%",
+    "uptime": "95.87%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "95.87%",
     "time": 454,
     "timeDay": 10342,
     "timeWeek": 2915,
@@ -81,7 +81,7 @@
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 465,
-      "2026-09-01": 227
+      "2026-09-01": 262
     }
   },
   {
@@ -113,10 +113,10 @@
     "slug": "data-bank-front-end",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.66%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "86.24%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.78%",
     "time": 265,
     "timeDay": 111,
     "timeWeek": 224,
@@ -131,7 +131,7 @@
       "2026-01-17": 227,
       "2026-01-28": 56,
       "2026-05-01": 42,
-      "2026-09-01": 164
+      "2026-09-01": 198
     }
   },
   {
@@ -140,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/databank.douglasneuroinformatics.ca.ico",
     "slug": "data-bank-back-end",
     "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "82.33%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.78%",
+    "uptime": "98.80%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.77%",
     "time": 184,
     "timeDay": 84,
     "timeWeek": 302,
@@ -157,7 +157,7 @@
       "2026-01-17": 227,
       "2026-01-28": 56,
       "2026-05-01": 42,
-      "2026-09-01": 254
+      "2026-09-01": 289
     }
   },
   {
@@ -166,10 +166,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.douglasneuroinformatics.ca.ico",
     "slug": "mattermost",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "89.66%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
+    "uptime": "99.87%",
+    "uptimeDay": "87.25%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.81%",
     "time": 232,
     "timeDay": 77,
@@ -180,7 +180,7 @@
       "2026-01-18": 542,
       "2026-01-17": 226,
       "2026-01-28": 55,
-      "2026-09-01": 149
+      "2026-09-01": 184
     }
   },
   {
@@ -190,10 +190,10 @@
     "slug": "tickets",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "87.77%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.81%",
     "time": 390,
     "timeDay": 148,
     "timeWeek": 3021,
@@ -203,7 +203,7 @@
       "2026-01-18": 542,
       "2026-01-17": 226,
       "2026-01-28": 39,
-      "2026-09-01": 141
+      "2026-09-01": 176
     }
   },
   {
@@ -359,10 +359,10 @@
     "slug": "dnp-s-lime-survey",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.82%",
     "time": 426,
     "timeDay": 269,
     "timeWeek": 786,
@@ -372,7 +372,7 @@
       "2026-01-18": 542,
       "2026-01-17": 225,
       "2026-01-28": 39,
-      "2026-09-01": 99
+      "2026-09-01": 134
     }
   },
   {
@@ -380,17 +380,17 @@
     "url": "https://omero.mcmpdouglas.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/omero.mcmpdouglas.ca.ico",
     "slug": "mcmp-s-omero-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "86.30%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "83.92%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.77%",
-    "time": 508,
-    "timeDay": 494,
-    "timeWeek": 591,
-    "timeMonth": 612,
-    "timeYear": 508,
+    "time": 509,
+    "timeDay": 578,
+    "timeWeek": 607,
+    "timeMonth": 616,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2025-09-25": 12,
       "2026-01-18": 526,
@@ -398,7 +398,7 @@
       "2026-01-19": 43,
       "2026-01-28": 38,
       "2026-08-30": 73,
-      "2026-09-01": 198
+      "2026-09-01": 232
     }
   },
   {
