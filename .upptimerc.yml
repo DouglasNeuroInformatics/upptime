@@ -3,9 +3,10 @@ repo: upptime
 
 sites:
   - name: DNP Remote Access Gateway
-    check: "tcp-ping"
+    check: "tcp"
     url: $GATEWAY
     port: $GATEWAY_PORT
+    __dangerous__body_down_if_regex_missing: "^SSH-2\\.0-"
   - name: Open Data Capture Demo (front-end)
     url: https://demo.opendatacapture.org/auth/login
   - name: Open Data Capture Demo (back-end)
