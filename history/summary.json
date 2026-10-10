@@ -28,16 +28,16 @@
     "url": "https://demo.opendatacapture.org/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "96.35%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "96.35%",
     "time": 458,
-    "timeDay": 258,
-    "timeWeek": 399,
-    "timeMonth": 857,
+    "timeDay": 329,
+    "timeWeek": 405,
+    "timeMonth": 848,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2026-03-25": 17,
@@ -56,7 +56,7 @@
       "2026-09-26": 11,
       "2026-10-06": 20,
       "2026-10-07": 499,
-      "2026-10-10": 0
+      "2026-10-10": 16
     }
   },
   {
@@ -64,15 +64,15 @@
     "url": "https://demo.opendatacapture.org/api",
     "icon": "https://icons.duckduckgo.com/ip3/demo.opendatacapture.org.ico",
     "slug": "open-data-capture-demo-back-end",
-    "status": "down",
+    "status": "up",
     "uptime": "96.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "96.24%",
     "time": 549,
-    "timeDay": 507,
-    "timeWeek": 478,
+    "timeDay": 511,
+    "timeWeek": 481,
     "timeMonth": 531,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
       "2026-10-03": 15,
       "2026-10-06": 19,
       "2026-10-07": 499,
-      "2026-10-10": 0
+      "2026-10-10": 15
     }
   },
   {
