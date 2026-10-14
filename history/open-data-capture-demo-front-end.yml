@@ -1,7 +1,7 @@
 url: https://demo.opendatacapture.org/auth/login
-status: up
-code: 200
-responseTime: 299
-lastUpdated: 2026-10-13T23:12:53.798Z
+status: down
+code: 502
+responseTime: 211
+lastUpdated: 2026-10-14T21:30:59.321Z
 startTime: 2026-02-26T06:13:56.157Z
 generator: Upptime <https://github.com/upptime/upptime>
