@@ -242,9 +242,9 @@
     "slug": "douglas-research-odc",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.16%",
     "time": 222,
     "timeDay": 171,
@@ -274,7 +274,7 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 10,
-      "2026-11-06": 1
+      "2026-11-06": 26
     }
   },
   {
@@ -282,16 +282,16 @@
     "url": "$DOUGLAS_CLINICAL_ODC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "douglas-clinical-odc",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.15%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.14%",
     "time": 129,
-    "timeDay": 215,
-    "timeWeek": 205,
-    "timeMonth": 190,
+    "timeDay": 176,
+    "timeWeek": 193,
+    "timeMonth": 187,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-02-26": 61,
@@ -319,7 +319,7 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 1
+      "2026-11-06": 25
     }
   },
   {
@@ -329,9 +329,9 @@
     "slug": "chat-dnp",
     "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.13%",
     "time": 120,
     "timeDay": 214,
@@ -363,7 +363,7 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 1
+      "2026-11-06": 25
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptime": "96.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.23%",
-    "uptimeYear": "93.55%",
+    "uptimeMonth": "25.18%",
+    "uptimeYear": "93.54%",
     "time": 459,
     "timeDay": 183,
     "timeWeek": 149,
@@ -407,7 +407,7 @@
       "2026-01-17": 225,
       "2026-01-28": 39,
       "2026-09-01": 361,
-      "2026-11-06": 614,
+      "2026-11-06": 638,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -464,11 +464,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.89%",
+    "uptime": "98.88%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.88%",
     "time": 129,
     "timeDay": 166,
     "timeWeek": 201,
@@ -502,7 +502,7 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 1
+      "2026-11-06": 25
     }
   }
 ]
