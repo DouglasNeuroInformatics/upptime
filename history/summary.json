@@ -395,7 +395,7 @@
     "uptime": "96.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.14%",
+    "uptimeMonth": "25.12%",
     "uptimeYear": "93.54%",
     "time": 459,
     "timeDay": 183,
@@ -407,7 +407,7 @@
       "2026-01-17": 225,
       "2026-01-28": 39,
       "2026-09-01": 361,
-      "2026-11-06": 653,
+      "2026-11-06": 662,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -463,17 +463,17 @@
     "url": "$SMRC_REDCAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.88%",
-    "time": 128,
-    "timeDay": 136,
-    "timeWeek": 182,
-    "timeMonth": 184,
-    "timeYear": 128,
+    "time": 129,
+    "timeDay": 151,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2026-02-25": 615,
       "2026-02-26": 303,
@@ -502,7 +502,7 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 33
+      "2026-11-06": 40
     }
   }
 ]
