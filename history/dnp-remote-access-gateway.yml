@@ -1,7 +1,7 @@
 url: $SSH_GATEWAY_HOST
 status: up
 code: 200
-responseTime: 217
-lastUpdated: 2026-11-12T23:08:21.409Z
+responseTime: 113
+lastUpdated: 2026-11-13T23:09:20.299Z
 startTime: 2024-11-01T14:00:03.997Z
 generator: Upptime <https://github.com/upptime/upptime>
