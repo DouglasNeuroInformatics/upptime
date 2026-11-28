@@ -4,17 +4,17 @@
     "url": "$SSH_GATEWAY_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dnp-remote-access-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.45%",
     "time": 62,
-    "timeDay": 180,
-    "timeWeek": 204,
-    "timeMonth": 178,
-    "timeYear": 67,
+    "timeDay": 187,
+    "timeWeek": 203,
+    "timeMonth": 179,
+    "timeYear": 68,
     "dailyMinutesDown": {
       "2025-12-10": 16,
       "2026-03-25": 53,
@@ -23,7 +23,7 @@
       "2026-09-30": 535,
       "2026-10-13": 3,
       "2026-11-06": 22,
-      "2026-11-28": 0
+      "2026-11-28": 7
     }
   },
   {
@@ -248,16 +248,16 @@
     "url": "$DOUGLAS_RESEARCH_ODC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "douglas-research-odc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.22%",
     "time": 222,
-    "timeDay": 276,
-    "timeWeek": 249,
-    "timeMonth": 232,
+    "timeDay": 260,
+    "timeWeek": 248,
+    "timeMonth": 233,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-02-26": 30,
@@ -282,7 +282,8 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 10,
-      "2026-11-06": 32
+      "2026-11-06": 32,
+      "2026-11-28": 1
     }
   },
   {
@@ -290,15 +291,15 @@
     "url": "$DOUGLAS_CLINICAL_ODC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "douglas-clinical-odc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.21%",
     "time": 132,
-    "timeDay": 215,
-    "timeWeek": 229,
+    "timeDay": 211,
+    "timeWeek": 226,
     "timeMonth": 183,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -327,7 +328,8 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 25
+      "2026-11-06": 25,
+      "2026-11-28": 1
     }
   },
   {
@@ -335,16 +337,16 @@
     "url": "$CHATDNP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-dnp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.20%",
     "time": 124,
-    "timeDay": 208,
-    "timeWeek": 218,
-    "timeMonth": 177,
+    "timeDay": 224,
+    "timeWeek": 221,
+    "timeMonth": 178,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-02-26": 89,
@@ -371,7 +373,8 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 32
+      "2026-11-06": 32,
+      "2026-11-28": 1
     }
   },
   {
@@ -415,7 +418,7 @@
       "2026-01-17": 225,
       "2026-01-28": 39,
       "2026-09-01": 361,
-      "2026-11-28": 1125,
+      "2026-11-28": 1134,
       "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
@@ -493,17 +496,17 @@
     "url": "$SMRC_REDCAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.97%",
-    "time": 131,
-    "timeDay": 247,
-    "timeWeek": 212,
-    "timeMonth": 179,
-    "timeYear": 131,
+    "time": 132,
+    "timeDay": 239,
+    "timeWeek": 215,
+    "timeMonth": 180,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2026-02-25": 615,
       "2026-02-26": 303,
@@ -532,7 +535,8 @@
       "2026-05-22": 58,
       "2026-05-21": 89,
       "2026-10-30": 9,
-      "2026-11-06": 40
+      "2026-11-06": 40,
+      "2026-11-28": 1
     }
   }
 ]
