@@ -4,10 +4,10 @@
     "url": "$SSH_GATEWAY_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dnp-remote-access-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.45%",
     "time": 62,
@@ -23,7 +23,7 @@
       "2026-09-30": 535,
       "2026-10-13": 3,
       "2026-11-06": 22,
-      "2026-11-28": 7
+      "2026-11-28": 8
     }
   },
   {
@@ -250,9 +250,9 @@
     "slug": "douglas-research-odc",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.22%",
     "time": 222,
     "timeDay": 260,
@@ -283,7 +283,7 @@
       "2026-05-21": 89,
       "2026-10-30": 10,
       "2026-11-06": 32,
-      "2026-11-28": 1
+      "2026-11-28": 28
     }
   },
   {
@@ -292,11 +292,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "douglas-clinical-odc",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.20%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.20%",
     "time": 132,
     "timeDay": 211,
     "timeWeek": 226,
@@ -329,7 +329,7 @@
       "2026-05-21": 89,
       "2026-10-30": 9,
       "2026-11-06": 25,
-      "2026-11-28": 1
+      "2026-11-28": 28
     }
   },
   {
@@ -338,11 +338,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-dnp",
     "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.19%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.19%",
     "time": 124,
     "timeDay": 224,
     "timeWeek": 221,
@@ -374,7 +374,7 @@
       "2026-05-21": 89,
       "2026-10-30": 9,
       "2026-11-06": 32,
-      "2026-11-28": 1
+      "2026-11-28": 28
     }
   },
   {
@@ -403,7 +403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/survey.douglasneuroinformatics.ca.ico",
     "slug": "dnp-s-lime-survey",
     "status": "down",
-    "uptime": "93.60%",
+    "uptime": "93.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,7 @@
       "2026-01-17": 225,
       "2026-01-28": 39,
       "2026-09-01": 361,
-      "2026-11-28": 1134,
+      "2026-11-28": 1160,
       "2026-11-27": 1440,
       "2026-11-26": 1440,
       "2026-11-25": 1440,
@@ -497,11 +497,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smrc-s-red-cap",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.96%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "98.96%",
     "time": 132,
     "timeDay": 239,
     "timeWeek": 215,
@@ -536,7 +536,7 @@
       "2026-05-21": 89,
       "2026-10-30": 9,
       "2026-11-06": 40,
-      "2026-11-28": 1
+      "2026-11-28": 28
     }
   }
 ]
